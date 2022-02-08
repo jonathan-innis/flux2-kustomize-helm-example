@@ -1,0 +1,9 @@
+apiVersion: source.toolkit.fluxcd.io/v1beta1
+kind: GitRepository
+metadata:
+  name: malicious
+  namespace: malicious
+spec:
+  interval: 5m
+  url: https://github.com/jonathan-innis/flux2-kustomize-helm-example
+  

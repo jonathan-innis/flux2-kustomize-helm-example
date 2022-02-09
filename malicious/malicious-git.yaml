@@ -6,4 +6,6 @@ metadata:
 spec:
   interval: 5m
   url: https://github.com/jonathan-innis/flux2-kustomize-helm-example
+  repositoryRef:
+    branch: malicious
   

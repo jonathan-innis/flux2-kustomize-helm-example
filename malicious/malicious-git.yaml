@@ -7,5 +7,5 @@ spec:
   interval: 5m
   url: https://github.com/jonathan-innis/flux2-kustomize-helm-example
   ref:
-    branch: malicious
+    branch: main
   

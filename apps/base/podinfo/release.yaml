@@ -4,6 +4,7 @@ metadata:
   name: podinfo
   namespace: cluster-config
 spec:
+  targetNamespace: cluster-config
   releaseName: podinfo
   chart:
     spec:

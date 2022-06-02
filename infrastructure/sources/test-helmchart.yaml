@@ -11,4 +11,4 @@ spec:
   sourceRef:
     kind: HelmRepository
     name: bitnami
-  version: 11.3.4
+  version: 16.x
